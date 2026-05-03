@@ -7,6 +7,3 @@ Boolian = bool
 Memory = list
 MemoryCS = dict
 Nil = None
-ops = "+" | "-" | "*" | "/" | "%"
-# expr is expression
-simple_expr = [Integer, ops, Integer]
